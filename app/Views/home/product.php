@@ -16,7 +16,7 @@
                     <div class="row mx-5">
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
@@ -25,7 +25,7 @@
                         </div>
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
@@ -34,7 +34,7 @@
                         </div>
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
@@ -43,47 +43,7 @@
                         </div>
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
-                                <div class="card-body">
-                                    <h5 class="card-title">Facial Wash</h5>
-                                    <p class="card-text">Rp 90.000</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="row mx-5">
-                        <div class="col-md-3">
-                            <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
-                                <div class="card-body">
-                                    <h5 class="card-title">Facial Wash</h5>
-                                    <p class="card-text">Rp 90.000</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
-                                <div class="card-body">
-                                    <h5 class="card-title">Facial Wash</h5>
-                                    <p class="card-text">Rp 90.000</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
-                                <div class="card-body">
-                                    <h5 class="card-title">Facial Wash</h5>
-                                    <p class="card-text">Rp 90.000</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
@@ -96,7 +56,7 @@
                     <div class="row mx-5">
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
@@ -105,7 +65,7 @@
                         </div>
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
@@ -114,7 +74,7 @@
                         </div>
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
@@ -123,7 +83,47 @@
                         </div>
                         <div class="col-md-3">
                             <div class="card text-center border-0" style="width: 18rem;">
-                                <img class="card-img-top" src="img/favicon.ico" alt="Card image cap">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Facial Wash</h5>
+                                    <p class="card-text">Rp 90.000</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row mx-5">
+                        <div class="col-md-3">
+                            <div class="card text-center border-0" style="width: 18rem;">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Facial Wash</h5>
+                                    <p class="card-text">Rp 90.000</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card text-center border-0" style="width: 18rem;">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Facial Wash</h5>
+                                    <p class="card-text">Rp 90.000</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card text-center border-0" style="width: 18rem;">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Facial Wash</h5>
+                                    <p class="card-text">Rp 90.000</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card text-center border-0" style="width: 18rem;">
+                                <img class="card-img-top" src="img/product.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Facial Wash</h5>
                                     <p class="card-text">Rp 90.000</p>
