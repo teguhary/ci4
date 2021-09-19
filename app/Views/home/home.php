@@ -12,4 +12,6 @@
 
 <?= $this->include('home/discount');  ?> 
 
+<?= $this->include('home/productSlider');  ?> 
+
 <?= $this->endSection(); ?>
