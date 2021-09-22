@@ -4,7 +4,7 @@
         <img src="img/favicon.ico">
     </div>
     <div class="col">
-        <ol style="list-style: none;">
+        <ol class="list-unstyled"">
             <li class="mt-5">
                 <hr style="transform: rotate(90deg); margin-top: 70px;">
             </li>
@@ -12,7 +12,7 @@
         
     </div>
     <div class="col">
-        <ol style="list-style: none;">
+        <ol class="list-unstyled"">
             <li class="mb-2">
                 <h5>Site Map</h5>
             </li>
@@ -23,7 +23,7 @@
         </ol>
     </div>
     <div class="col">
-        <ol style="list-style: none;">
+        <ol class="list-unstyled"">
             <li class="mb-2">
                 <h5>Contact Us</h5>
             </li>
@@ -32,7 +32,7 @@
         </ol>
     </div>
     <div class="col">
-        <ol style="list-style: none;">
+        <ol class="list-unstyled"">
             <li class="mb-2">
                 <h5>Visit Us</h5>
             </li>
@@ -41,7 +41,7 @@
         </ol>
     </div>
     <div class="col">
-        <ol style="list-style: none;">
+        <ol class="list-unstyled"">
             <li class="mb-2">
                 <h5>Follow Us</h5>
             </li>
