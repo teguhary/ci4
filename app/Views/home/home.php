@@ -14,4 +14,6 @@
 
 <?= $this->include('home/productSlider');  ?> 
 
+<?= $this->include('home/bestSeller');  ?> 
+
 <?= $this->endSection(); ?>
