@@ -7,7 +7,6 @@
             <div class="navbar-nav" style="margin-left: 150px ; font-weight: bold;">
                 <a class="nav-link mx-3" href="/">Home</a>
                 <a class="nav-link mx-3" href="/shop">Shop</a>
-                <a class="nav-link mx-3" href="#">Collection</a>
                 <a class="nav-link mx-3" href="/contact-us" >Contact Us</a>
             </div>
         </div>
