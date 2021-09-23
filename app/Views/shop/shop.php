@@ -2,5 +2,6 @@
 
 <?= $this->section('content'); ?>
 
+<?= $this->include('shop/listProduct');  ?> 
 
 <?= $this->endSection(); ?>
